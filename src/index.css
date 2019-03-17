@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(112, 4, 4);
+  text-align: center;
+  width: 90vw;
+  margin: auto;
+}
+
+header {
+  margin-top: 5vh;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 2vw;
+}
+
+#intro {
+  margin-top: 40vh;
+}
+
+form {
+  margin: auto;
+  margin-top: 40vh;
+}
+
+form p, button {
+  margin-top: 3vh;
+}
+
+label {
+  font-weight: bold;
+}

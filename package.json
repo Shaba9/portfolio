@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^5.15.2",
+    "nodemon": "^1.18.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaba9/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaba9/portfolio/issues"
+  },
+  "homepage": "https://github.com/Shaba9/portfolio#readme"
+}
