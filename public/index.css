@@ -4,10 +4,14 @@
 }
 
 body {
-  background-color: rgb(112, 4, 4);
+  background-color: rgb(128, 21, 21);
   text-align: center;
   width: 90vw;
   margin: auto;
+}
+
+h1, p {
+  color: rgb(255, 170, 170);
 }
 
 header {
